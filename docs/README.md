@@ -19,13 +19,15 @@
   - [3D Model of our Product](#3d-model-of-our-product)
   - [User Interfaces for Mobile Application](#user-interfaces-for-mobile-application)
   - [Cloud Architecture](#cloud-architecture)
-  - [Mobile App Demonstrations](#mobile-app-demo)
+  - [Mobile App Demonstrations](#mobile-app-demonstrations)
   - [PCB Designs](#pcb-designs)
   - [Test Summary](#test-summary)
   - [Test Results](#test-results)
     - [Mobile App Testing](#mobile-app-testing)
     - [Server & Database Testing](#server-and-database-testing)
-  - [Embedded System Testing](#embedded-system-tests)
+  - [Embedded System Testing](#embedded-system-testing)
+  - [System Test](#system-testing)
+  - [Demonstration](#demonstration)
   - [Budget of the Product](#budget-of-the-product)
   - [Advising Lecturers](#advising-lecturers)
   - [Links](#links)
@@ -179,6 +181,39 @@ When a player log into the platform his login information will be checked in the
   - *How was the test done?*
   
     ![LED panel test](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/LED_Panel_Test.gif)
+    
+- **Algorithm Test**
+  
+  - *Test 01*
+    ![Algorithm_Test_1](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/Algorithm-Testing1.gif)
+    
+  - *Test 02*
+    ![Algorithm_Test_2](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/Algorithm-Testing2.gif)
+    
+## **System Testing** 
+![Embedded_System_Test](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/EmbeddedSystem_Testing.gif)
+   
+
+##  Demonstration
+
+  - App vs App Game Demonstration
+     
+    ![AppVsApp](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/App-vs-App.gif)
+    
+  - Game Streaming Demostraion
+ 
+    ![GameStream](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/Game-View.gif)   
+  
+  - System Demonstration
+  
+    - *Part 01*
+    ![GameStream](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/System-Demonstration-part1.gif)
+    
+    - *Part 02* 
+    ![GameStream](https://raw.githubusercontent.com/cepdnaclk/e16-3yp-chessMATE/main/Files/System-Demonstration-part2.gif)
+  
+ 
+   
 
 ## Budget of the Product
 
